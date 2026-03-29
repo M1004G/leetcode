@@ -31,7 +31,7 @@ public:
 };
 ```
 
-![My Image](Day2/first missing positive.png)
+![My Image](Muskan_23.3.2026_day2.png)
 
 ```cpp
 class Solution {
@@ -52,4 +52,4 @@ public:
 };
 ```
 
-![My Image](Day2/Muskan_23.3.2026_day-2.png)
+![My Image](Muskan_23.3.2026_day-2.png)
