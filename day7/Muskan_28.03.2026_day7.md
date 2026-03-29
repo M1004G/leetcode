@@ -1,3 +1,4 @@
+```cpp
 #include <bits/stdc++.h>
 using namespace std;
 class Solution {
@@ -21,3 +22,5 @@ public:
         return false;
     }
 };
+```
+![My Image](MuskanGoel_28.3.2026_day7.png)
